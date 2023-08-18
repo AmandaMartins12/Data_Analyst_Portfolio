@@ -1,4 +1,4 @@
-**Identifying Risk in Patients with Heart Disease using Clustering**
+**Risk-identifying heart disease patients using Clustering**
 
 Welcome to the directory for the Identifying Risk in Patients with Heart Disease using Clustering project! In this project, we explore how the K-Means algorithm can be applied to cluster patients and identify groups at higher risk of developing heart disease.
 
