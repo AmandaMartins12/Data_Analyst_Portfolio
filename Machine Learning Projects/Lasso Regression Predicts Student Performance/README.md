@@ -1,4 +1,4 @@
-### Predicting Student Performance with Lasso Regression
+# Predicting Student Performance with Lasso Regression
 
 ## Overview
 
