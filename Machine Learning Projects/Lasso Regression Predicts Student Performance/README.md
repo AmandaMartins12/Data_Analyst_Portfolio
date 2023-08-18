@@ -25,7 +25,7 @@ The code operates on a dataset containing assessment grades and attendance infor
 
 3. **Predictions and Metrics Calculation**: The trained models are employed to predict assessment grades. The code then calculates overall averages, recovery grades (if applicable), final averages, and pass/fail status based on the predictions.
 
-4. **Exporting to Google Sheets**: The predictions and calculated metrics are exported to a Google Sheets spreadsheet (Sheet 3) using the Google Sheets API.
+4. **Exporting to Google Sheets**: The predictions and calculated metrics are exported to a Google Sheets spreadsheet (Sheet 3).
 
 ## Conclusion
 
