@@ -11,9 +11,9 @@ Explore a diverse range of projects that demonstrate the versatility and impact 
 
 ## Contents
 
-- **Project 1**: *Predicting Delivery Time in E-commerce using Linear Regression*
-- **Project 2**: *Risk-identifying heart disease patients using Clustering.*
-- **Project 3**: *Predicting school performance using Lasso Regression.*
+- **Project 1**: [*Predicting Delivery Time in E-commerce using Linear Regression*]
+- **Project 2**: [*Risk-identifying heart disease patients using Clustering.*]
+- **Project 3**: [*Predicting school performance using Lasso Regression.*]
 
 ## How to Use
 
