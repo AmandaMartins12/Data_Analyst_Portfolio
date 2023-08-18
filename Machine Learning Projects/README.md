@@ -11,7 +11,7 @@ Explore a diverse range of projects that demonstrate the versatility and impact 
 
 ## Contents
 
-- **Project 1**: [*Predicting Delivery Time in E-commerce using Linear Regression*]()
+- **Project 1**: [*Predicting Delivery Time in E-commerce using Linear Regression*](https://github.com/AmandaMartins12/Data_Analyst_Portfolio/tree/548d11af26d87ae8883e52f850fe7d07ba6ff959/Machine%20Learning%20Projects/Predicting%20Delivery%20Time%20in%20E-commerce%20using%20Linear%20Regression)
 - **Project 2**: [*Risk-identifying heart disease patients using Clustering.*]()
 - **Project 3**: [*Predicting school performance using Lasso Regression.*]()
 
