@@ -1,0 +1,101 @@
+ID;Name;Age;Gender;Registration Date;Location
+1;Carlos Rodríguez;30;Male;2023-01-15;Los Angeles, CA
+2;Ana López;28;Female;2023-02-03;Miami, FL
+3;Carlos Rodríguez;30;Male;2023-01-15;Los Angeles, CA
+4;Ana López;28;Female;2023-02-03;Miami, FL
+5;Diego Herrera;25;Male;2023-03-20;Houston, TX
+6;Sofia Torres;27;Female;2023-04-12;New York, NY
+7;Mateo Ramírez;32;Male;2023-05-08;Chicago, IL
+8;Laura González;26;Female;2023-06-10;Phoenix, AZ
+9;José Martínez;29;Male;2023-07-05;San Antonio, TX
+10;Isabel Morales;33;Female;2023-08-18;Austin, TX
+11;Luis Sánchez;28;Male;2023-09-02;Orlando, FL
+12;Valentina Torres;31;Female;2023-10-12;Denver, CO
+13;Miguel Rodríguez;34;Male;2023-11-28;Seattle, WA
+14;Sofia García;27;Female;2023-01-06;Las Vegas, NV
+15;Alejandro López;29;Male;2023-02-15;Portland, OR
+16;Camila Ramírez;30;Female;2023-03-25;Atlanta, GA
+17;Lucas Morales;25;Male;2023-04-19;Raleigh, NC
+18;Martina Hernández;23;Female;2023-05-27;Miami, FL
+19;Francisco Torres;32;Male;2023-06-14;San Diego, CA
+20;Elena Navarro;29;Female;2023-07-02;Houston, TX
+21;Leonardo Vargas;26;Male;2023-08-10;Chicago, IL
+22;Isabella Silva;28;Female;2023-09-17;New York, NY
+23;Rafael Pérez;30;Male;2023-10-21;Los Angeles, CA
+24;Julia Rodríguez;27;Female;2023-11-29;Dallas, TX
+25;Diego Fernández;31;Male;2023-01-04;Miami, FL
+26;Valentina Martínez;29;Female;2023-02-13;San Francisco, CA
+27;Alejandro Sánchez;35;Male;2023-03-22;Austin, TX
+28;Gabriela Rodríguez;28;Female;2023-04-05;Houston, TX
+29;Fernando Gómez;33;Male;2023-05-18;Miami, FL
+30;Valeria Morales;29;Female;2023-06-23;Los Angeles, CA
+31;Andrés Ramírez;27;Male;2023-07-30;New York, NY
+32;Natalia Pérez;31;Female;2023-08-12;Chicago, IL
+33;Hugo Torres;30;Male;2023-09-26;Dallas, TX
+34;Camila Sánchez;28;Female;2023-10-07;Phoenix, AZ
+35;Mateo García;29;Male;2023-11-19;Houston, TX
+36;Isabella López;25;Female;2023-01-22;Miami, FL
+37;Daniel Vargas;34;Male;2023-02-05;Austin, TX
+38;Mariana Martínez;31;Female;2023-03-15;Los Angeles, CA
+39;Sebastián Navarro;28;Male;2023-04-30;New York, NY
+40;Lucía Rodríguez;27;Female;2023-05-09;San Francisco, CA
+41;Javier Fernández;26;Male;2023-06-14;Chicago, IL
+42;Valentina Silva;32;Female;2023-07-25;Miami, FL
+43;Eduardo Sánchez;29;Male;2023-08-08;Houston, TX
+44;Daniela Ramírez;24;Female;2023-09-20;Los Angeles, CA
+45;Andrea Pérez;28;Female;2023-10-03;Miami, FL
+46;Pablo Gómez;33;Male;2023-11-15;New York, NY
+47;Carolina Martínez;27;Female;2023-01-28;Chicago, IL
+48;Samuel Hernández;30;Male;2023-02-10;Phoenix, AZ
+49;Amanda Torres;29;Female;2023-03-22;Houston, TX
+50;Diego López;26;Male;2023-04-06;Dallas, TX
+51;Sofía Ramírez;31;Female;2023-05-18;Austin, TX
+52;Luis Navarro;28;Male;2023-06-30;Los Angeles, CA
+53;Gabriel Silva;29;Male;2023-07-12;Miami, FL
+54;Isabel García;28;Female;2023-08-24;Los Angeles, CA
+55;Lucas Martínez;26;Male;2023-09-06;New York, NY
+56;Valentina Fernández;31;Female;2023-10-19;Chicago, IL
+57;Andrés Torres;30;Male;2023-11-02;Miami, FL
+58;María Ramírez;29;Female;2023-01-15;Houston, TX
+59;Daniel Gómez;25;Male;2023-02-28;Austin, TX
+60;Ana Navarro;33;Female;2023-03-14;Los Angeles, CA
+61;Miguel López;27;Male;2023-04-25;Phoenix, AZ
+62;Camila Pérez;28;Female;2023-05-08;San Francisco, CA
+63;Juan García;30;Male;2023-06-21;New York, NY
+64;Carolina Ramírez;29;Female;2023-07-04;Chicago, IL
+65;Lucas Silva;26;Male;2023-08-17;Los Angeles, CA
+66;Valentina González;31;Female;2023-09-30;Miami, FL
+67;André Martínez;30;Male;2023-10-13;Houston, TX
+68;Isabela Fernández;28;Female;2023-11-26;New York, NY
+69;Gustavo Ramírez;25;Male;2023-01-09;Chicago, IL
+70;Sofia Torres;29;Female;2023-02-22;Phoenix, AZ
+71;Diego Pérez;27;Male;2023-03-06;San Francisco, CA
+72;Fernanda García;31;Female;2023-04-19;Miami, FL
+73;Mateo Sánchez;30;Male;2023-05-02;Austin, TX
+74;Julia Martínez;29;Female;2023-06-15;Los Angeles, CA
+75;Lucas Ramírez;26;Male;2023-07-28;Miami, FL
+76;Valentina Silva;31;Female;2023-08-10;New York, NY
+77;Matías López;30;Male;2023-09-23;Chicago, IL
+78;Elena González;29;Female;2023-10-03;Los Angeles, CA
+79;Andrés García;28;Male;2023-11-16;Miami, FL
+80;Valeria Martínez;26;Female;2023-12-29;New York, NY
+81;Lucas Ramírez;31;Male;2023-01-11;Chicago, IL
+82;Sofia Silva;30;Female;2023-02-24;Los Angeles, CA
+83;Mateo Torres;29;Male;2023-04-08;Miami, FL
+84;Camila López;27;Female;2023-05-21;New York, NY
+85;Gabriel Martínez;30;Male;2023-06-03;Chicago, IL
+86;Isabel García;31;Female;2023-07-16;Los Angeles, CA
+87;Lucas Ramírez;28;Male;2023-08-29;Miami, FL
+88;Valentina Silva;26;Female;2023-10-11;New York, NY
+89;Andrés Pérez;30;Male;2023-11-24;Chicago, IL
+90;Sofia Torres;29;Female;2023-01-06;Los Angeles, CA
+91;Mateo López;28;Male;2023-02-19;Miami, FL
+92;Valentina Martínez;31;Female;2023-03-04;New York, NY
+93;Lucas Ramírez;30;Male;2023-04-17;Chicago, IL
+94;Isabela Silva;27;Female;2023-05-30;Los Angeles, CA
+95;Gabriel Torres;26;Male;2023-07-12;Miami, FL
+96;Camila García;29;Female;2023-08-25;New York, NY
+97;Andrés Martínez;28;Male;2023-10-07;Chicago, IL
+98;Valentina Ramírez;30;Female;2023-11-20;Los Angeles, CA
+99;Lucas López;31;Male;2023-01-02;Miami, FL
+100;Sofia García;27;Female;2023-02-15;New York, NY
